@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wiki-viewer/static/css/main.2cce8147.chunk.css",
+    "main.js": "/wiki-viewer/static/js/main.bfc75961.chunk.js",
+    "main.js.map": "/wiki-viewer/static/js/main.bfc75961.chunk.js.map",
+    "runtime~main.js": "/wiki-viewer/static/js/runtime~main.342bfa58.js",
+    "runtime~main.js.map": "/wiki-viewer/static/js/runtime~main.342bfa58.js.map",
+    "static/js/2.b41502e9.chunk.js": "/wiki-viewer/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/wiki-viewer/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/wiki-viewer/index.html",
+    "precache-manifest.d0cbda69b59ae97144748ee043108cfd.js": "/wiki-viewer/precache-manifest.d0cbda69b59ae97144748ee043108cfd.js",
+    "service-worker.js": "/wiki-viewer/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/wiki-viewer/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/wiki-viewer/static/media/logo.5d5d9eef.svg"
+  }
+}
